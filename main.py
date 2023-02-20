@@ -1,6 +1,6 @@
 import keyboard
 import time
-from kmp import *
+from kant_morris_pratt import *
 from naive import *
 from boyer_moor import *
 from rabin_karp import *
